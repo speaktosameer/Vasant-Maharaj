@@ -3,7 +3,7 @@ import {AiFillPlayCircle} from 'react-icons/ai'
 
 const HeroSection = () => {
   return (
-    <div className="banner-area auto-height text-light banner-business bg-cover shadow theme" style={{backgroundImage: "url('assets/img/shape/2.jpg')"}}>
+    <div className="banner-area auto-height text-light banner-business bg-cover shadow theme" style={{backgroundImage: "url('assets/img/thumb/2.jpg')"}}>
         <div className="item">
             <div className="box-table">
                 <div className="box-cell">
